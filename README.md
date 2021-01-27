@@ -6,6 +6,8 @@
 ![PWM Pins of Raspberry Pi Pico](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_w.jpg)
 ![](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_n.JPG)
 
+These links for getting started
+
 [Getting Started with Raspberry Pi Pico](https://www.raspberrypi.org/documentation/pico/getting-started/)
 
 [Getting Started with Raspberry Pi Pico (pdf), C/C++ Development with the Pico and other RP2040-based microcontroller boards](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf)
