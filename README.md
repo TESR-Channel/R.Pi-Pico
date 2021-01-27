@@ -5,6 +5,7 @@
 ![GPIO, ADC, UART, SPI, I2C of Raspberry Pi Pico](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_m.jpg)
 ![PWM Pins of Raspberry Pi Pico](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_w.jpg)
 ![](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_n.JPG)
+![](https://docs.google.com/drawings/d/e/2PACX-1vRoiqkizdvTFtImtHc2Qxo8GaOjTpykaYBf9en4eKpMhmD56eiHKeBwHoCIF_VEw-uXVOGZem4MNKGp/pub?w=1043&h=1259)
 
 These links for getting started
 
