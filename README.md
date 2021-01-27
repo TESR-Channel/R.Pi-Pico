@@ -19,3 +19,5 @@ These links for getting started
 [Pico C/C++ SDK (pdf), Libraries and Tools for C/C++ Development on the RP2040 Microcontroller](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf)
 
 [RP2040 Datasheet (pdf), A microcontroller by Raspberry Pi](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf)
+
+[E-book Get started with MicroPython on Raspberry Pi Pico](https://drive.google.com/file/d/1OEpcsubSbk0kyi6HeAYVQ4afMO7KAFj1/view?usp=sharing)
