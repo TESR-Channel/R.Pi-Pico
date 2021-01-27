@@ -1,5 +1,11 @@
 # R.Pi-Pico learning by TESR
 
+![](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPi-Pico_Intro_16Jan21.jpg)
+![](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO_Spec_16Jan21.jpg)
+![GPIO, ADC, UART, SPI, I2C of Raspberry Pi Pico](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_m.jpg)
+![PWM Pins of Raspberry Pi Pico](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_w.jpg)
+![](https://www.cytron.io/image/catalog/products/RPI-PICO-B/RPI-PICO-B_n.JPG)
+
 [Getting Started with Raspberry Pi Pico](https://www.raspberrypi.org/documentation/pico/getting-started/)
 
 [Getting Started with Raspberry Pi Pico (pdf), C/C++ Development with the Pico and other RP2040-based microcontroller boards](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf)
