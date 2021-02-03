@@ -1,0 +1,5 @@
+file = open("SaveData.txt")
+ReadData = file.read()
+file.close()
+print(ReadData)
+print("Read File Done.")
